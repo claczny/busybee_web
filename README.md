@@ -3,7 +3,7 @@
 BusyBee Web (https://ccb-microbe.cs.uni-saarland.de/busybee/) is a web-based, automated, and reference-independent binning tool for metagenomic data in the form of **assembled contigs** or **long reads** (PacBio, Oxford Nanopore Technologies).
 
 **No installation** is required; simply upload your FASTA file and give it a go.
-BusyBee Web is based on concepts developed in the context of VizBin and thus tries to combine automated clustering and human inspection into a user-friendly web application.
+BusyBee Web is based on concepts developed in the context of [VizBin](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-014-0066-1) and thus tries to combine [automated clustering and human inspection](https://www.nature.com/articles/nmicrobiol2016180) into a user-friendly web application.
 Moreover, bin quality estimates are provided as complementary means to the visual inspection.
 You can optionally enable **taxonomic** annotation using Kraken and the Minikraken database, as well as let BusyBee Web annotate *putative* **antibiotic resistance genes**.
 Taxonomic annotation is quick, the functional annotation may take a bit though as genes have to be called first, etc.
