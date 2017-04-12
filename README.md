@@ -1,6 +1,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![BusyBee Web - metagenomic data analysis by bootstrapped supervised binning and annotation](images/Busybee_web_on_right_side_medium_size_low_res.png)
 
-BusyBee Web (https://ccb-microbe.cs.uni-saarland.de/busybee/) is a web-based, automated, and reference-indepent binning tool for metagenomic data in the form of assembled contigs or long reads (PacBio, Oxford Nanopore Technologies).
+BusyBee Web (https://ccb-microbe.cs.uni-saarland.de/busybee/) is a web-based, automated, and reference-independent binning tool for metagenomic data in the form of **assembled contigs** or **long reads** (PacBio, Oxford Nanopore Technologies).
 
 **No installation** is required; simply upload your FASTA file and give it a go.
 BusyBee Web is based on concepts developed in the context of VizBin and thus tries to combine automated clustering and human inspection into a user-friendly web application.
