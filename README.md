@@ -9,7 +9,9 @@ You can optionally enable **taxonomic** annotation using Kraken and the Minikrak
 Taxonomic annotation is quick, the functional annotation may take a bit though as genes have to be called first, etc.
 
 [Demo results - 2D scatterplot](images/results.scatterplot_abx.png)
+
 [Demo results - Bin quality estimates table](images/results.bin_quality_table.png)
+
 [Demo results - Taxonomic composition comparison](images/results.taxonomic_composition_compared.png)
 
 # ISSUES
