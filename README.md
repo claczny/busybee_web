@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![BusyBee Web - metagenomic data analysis by bootstrapped supervised binning and annotation](https://ccb-microbe.cs.uni-saarland.de/busybee/static/images/Busybee_web_on_right_side_medium_size_low_res.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![BusyBee Web - metagenomic data analysis by bootstrapped supervised binning and annotation](Busybee_web_on_right_side_medium_size_low_res.png)
 
 # BUSYBEE WEB
 
@@ -23,3 +23,6 @@ Should you run into any other issues when using BusyBee Web, please post [an iss
 THIS SOFTWARE IS PROVIDED BY THE CHAIR FOR CLINICAL BIOINFORMATICS (SAARLAND UNIVERSITY) AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE CHAIR FOR CLINICAL BIOINFORMATICS (SAARLAND UNIVERSITY) OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
 
 See also the [About & Disclaimer page](https://ccb-microbe.cs.uni-saarland.de/busybee/about/).
+
+# LOGO
+The logo was designed by the hyper-talented Linda Wampach (Twitter: @wampachl).
