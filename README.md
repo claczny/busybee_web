@@ -8,9 +8,9 @@ Moreover, bin quality estimates are provided as complementary means to the visua
 You can optionally enable **taxonomic** annotation using Kraken and the Minikraken database, as well as let BusyBee Web annotate *putative* **antibiotic resistance genes**.
 Taxonomic annotation is quick, the functional annotation may take a bit though as genes have to be called first, etc.
 
-[Demo results - 2D scatterplot](results.scatterplot_abx.png)
-[Demo results - Bin quality estimates table](results.bin_quality_table.png)
-[Demo results - Taxonomic composition comparison](results.taxonomic_composition_compared.png)
+[Demo results - 2D scatterplot](images/results.scatterplot_abx.png)
+[Demo results - Bin quality estimates table](images/results.bin_quality_table.png)
+[Demo results - Taxonomic composition comparison](images/results.taxonomic_composition_compared.png)
 
 # ISSUES
 While the web server is principally stable, we are actively working on extending BusyBee Web's functionality.
