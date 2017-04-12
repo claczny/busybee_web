@@ -8,6 +8,8 @@ Moreover, bin quality estimates are provided as complementary means to the visua
 You can optionally enable **taxonomic** annotation using Kraken and the Minikraken database, as well as let BusyBee Web annotate *putative* **antibiotic resistance genes**.
 Taxonomic annotation is quick, the functional annotation may take a bit though as genes have to be called first, etc.
 
+## DEMO
+
 [Demo results - 2D scatterplot](images/results.scatterplot_abx.png)
 
 [Demo results - Bin quality estimates table](images/results.bin_quality_table.png)
@@ -17,6 +19,8 @@ Taxonomic annotation is quick, the functional annotation may take a bit though a
 # ISSUES
 While the web server is principally stable, we are actively working on extending BusyBee Web's functionality.
 Moreover, we are curious to see what the load on the server will be.
+
+In any case, you can contact Cedric via his Twitter handle **@claczny**.
 
 Should the service be unavailable or should you find that your jobs are waiting in the queue for some time, we would greatly appreciate if you could let us know so we can adjust the hardware requirements accordingly.
 Please open a [new issue](https://github.com/claczny/busybee_web/issues/new) in that case.
@@ -35,4 +39,4 @@ THIS SOFTWARE IS PROVIDED BY THE CHAIR FOR CLINICAL BIOINFORMATICS (SAARLAND UNI
 See also the [About & Disclaimer page](https://ccb-microbe.cs.uni-saarland.de/busybee/about/).
 
 # LOGO
-The logo was designed by the hyper-talented Linda Wampach (Twitter: @wampachl).
+The logo was designed by the hyper-talented Linda Wampach (Twitter: **@wampachl**).
