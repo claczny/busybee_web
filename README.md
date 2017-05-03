@@ -16,6 +16,15 @@ Taxonomic annotation is quick, the functional annotation may take a bit though a
 
 [Demo results - Taxonomic composition comparison](images/results.taxonomic_composition_compared.png)
 
+# PUBLICATION
+Great news!!! The paper is now out at Nucleic Acids Research (https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx348).
+
+If you use BusyBee Web, please cite it as
+
+> Cedric C. Laczny, Christina Kiefer, Valentina Galata, Tobias Fehlmann, Christina Backes, Andreas Keller; BusyBee Web: metagenomic data analysis by bootstrapped supervised binning and annotation. *Nucleic Acids Res* 2017 gkx348. doi: 10.1093/nar/gkx348
+
+or format your citation via https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx348#
+
 # ISSUES
 While the web server is principally stable, we are actively working on extending BusyBee Web's functionality.
 Moreover, we are curious to see what the load on the server will be.
